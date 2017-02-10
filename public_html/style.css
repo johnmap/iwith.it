@@ -21,7 +21,6 @@ body .header .header-content{
     float: left;
     padding-top: 14px;
 }
-
 .header h1{
     font-family:Lato;
     font-size: 30px;
@@ -43,8 +42,7 @@ body .header .header-content{
 }
 .header ul a{
     color: white;
-    text-decoration: none;
-    
+    text-decoration: none;  
 }
 .main-picture{
     height: 140px;
@@ -78,7 +76,6 @@ body .header .header-content{
 .main-content age{
     font: left;
 }
-
 .steps li{
     border-radius: 50px;
     width: 80px;
@@ -89,5 +86,4 @@ body .header .header-content{
     margin-left: 10px;
     text-align:center;
     line-height:80px;
-    
 }
